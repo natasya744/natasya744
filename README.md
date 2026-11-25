@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, there 👋 
+I'm Natasya 
 
-<!--
-**natasya744/natasya744** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### AI Engineer | Building Practical AI Solutions
 
-Here are some ideas to get you started:
+I'm an AI Engineer focused on building AI-powered applications and intelligent systems that solve real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I work across AI application development, LLM integration, RAG pipelines, AI agents, and backend engineering — turning ideas into functional, deployable software.
+
+### Technical Skills
+
+- **AI Engineering:** LLMs, RAG, AI Agents, Prompt Engineering
+- **Backend:** Python, FastAPI, REST APIs
+- **AI Frameworks:** LangChain, Pydantic AI
+- **Databases:** PostgreSQL, Supabase, Mongodb
+- **Tools & Deployment:** Docker, Git, Linux, n8n, MCP, Azure Cloud
+
+I've built over 50 repos some of them privately
+
+### Connect With Me
+
+- Linkedin: linkedin.com/in/astrid-putri-anastasya
+
+ ###  Fun fact 
+
+ -  like listening to music.
+ -  enjoy learning new technologies
+ -  cat lovers
+ -  i don't drink matcha tho
+ -  and last i like one piece
+
+### that's it. 
+
+*Building AI systems that solve real problems.*
